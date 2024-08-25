@@ -1,0 +1,21 @@
+# ninja log v6
+2	12	1724383532840532764	PetDesktop_autogen/timestamp	de29670f387694ed
+2	12	1724383532840532764	PetDesktop_autogen/mocs_compilation.cpp	de29670f387694ed
+1554	1781	1724383534392554047	PetDesktop	1fb18cdf799171f4
+189	332	1724329940174946535	PetDesktop_autogen/EWIEGA46WW/qrc_imgs.cpp	ba6b8ffd75aaa5df
+2	12	1724383532840532764	/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop_autogen/timestamp	de29670f387694ed
+2	12	1724383532840532764	/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop_autogen/mocs_compilation.cpp	de29670f387694ed
+189	332	1724329940174946535	/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop_autogen/EWIEGA46WW/qrc_imgs.cpp	ba6b8ffd75aaa5df
+12	1554	1724383532852532930	CMakeFiles/PetDesktop.dir/widget.cpp.o	64f7e85ea5f9d85a
+333	6377	1724329940186946054	CMakeFiles/PetDesktop.dir/PetDesktop_autogen/EWIEGA46WW/qrc_imgs.cpp.o	2d8f6f5874019eb3
+200	1307	1724381751529253519	CMakeFiles/PetDesktop.dir/PetDesktop_autogen/mocs_compilation.cpp.o	584c782b659f1efb
+200	1258	1724381751529253519	CMakeFiles/PetDesktop.dir/main.cpp.o	aa84d6cc967ab869
+2	11	1724385834044081472	PetDesktop_autogen/timestamp	de29670f387694ed
+2	11	1724385834044081472	PetDesktop_autogen/mocs_compilation.cpp	de29670f387694ed
+2	11	1724385834044081472	/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop_autogen/timestamp	de29670f387694ed
+2	11	1724385834044081472	/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop_autogen/mocs_compilation.cpp	de29670f387694ed
+11	208	1724385834228087137	PetDesktop_autogen/EWIEGA46WW/qrc_imgs.cpp	ba6b8ffd75aaa5df
+11	208	1724385834228087137	/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop_autogen/EWIEGA46WW/qrc_imgs.cpp	ba6b8ffd75aaa5df
+209	1573	1724385834252087876	CMakeFiles/PetDesktop.dir/main.cpp.o	aa84d6cc967ab869
+209	6412	1724385834252087876	CMakeFiles/PetDesktop.dir/PetDesktop_autogen/EWIEGA46WW/qrc_imgs.cpp.o	2d8f6f5874019eb3
+6412	6639	1724385840456278803	PetDesktop	1fb18cdf799171f4

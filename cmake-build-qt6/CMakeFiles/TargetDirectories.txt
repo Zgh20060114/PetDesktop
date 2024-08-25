@@ -1,0 +1,8 @@
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/PetDesktop.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/edit_cache.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/rebuild_cache.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/list_install_components.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/install.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/install/local.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/install/strip.dir
+/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6/CMakeFiles/PetDesktop_autogen.dir

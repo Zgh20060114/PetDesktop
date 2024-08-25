@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_PetDesktop_FILE /home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/PetDesktop)
+set(__QT_DEPLOY_TARGET_PetDesktop_TYPE EXECUTABLE)

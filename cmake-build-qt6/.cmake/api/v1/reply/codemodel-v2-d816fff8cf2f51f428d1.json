@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-115ca0dc6b7240f65453.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PetDesktop",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PetDesktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PetDesktop-Debug-b73d66b50cd2112a9891.json",
+					"name" : "PetDesktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PetDesktop_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PetDesktop_autogen-Debug-49478717e166c91a2edb.json",
+					"name" : "PetDesktop_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zgh/Qt_Projects/PetDesktop/cmake-build-qt6",
+		"source" : "/home/zgh/Qt_Projects/PetDesktop"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

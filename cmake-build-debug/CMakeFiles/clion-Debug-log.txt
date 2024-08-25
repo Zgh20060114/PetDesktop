@@ -1,0 +1,10 @@
+/opt/clion/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/clion-2023.2.2/bin/ninja/linux/x64/ninja -DQT_DIR:PATH=/opt/Qt/6.7.2 -DQt5Core_DIR:PATH=/opt/Qt/6.7.2/gcc_64/lib/cmake/Qt6Core -DQt5Gui_DIR:PATH=/opt/Qt/6.7.2/gcc_64/lib/cmake/Qt6Gui -DQt5Widgets_DIR:PATH=/opt/Qt/6.7.2/gcc_64/lib/cmake/Qt6Widgets -DQt5_DIR:PATH=/opt/Qt/6.7.2/gcc_64/lib/cmake/Qt6 -G Ninja -S /home/zgh/Qt_Projects/PetDesktop -B /home/zgh/Qt_Projects/PetDesktop/cmake-build-debug
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zgh/Qt_Projects/PetDesktop/cmake-build-debug

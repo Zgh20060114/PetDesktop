@@ -1,0 +1,9 @@
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/PetDesktop.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/PetDesktop_autogen_timestamp_deps.dir
+/home/zgh/Qt_Projects/PetDesktop/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/PetDesktop_autogen.dir

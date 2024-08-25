@@ -1,0 +1,21 @@
+# ninja log v5
+1	3	0	/home/zgh/Qt_Projects/PetDesktop/cmake-build-debug/PetDesktop_autogen/mocs_compilation.cpp	1f3a8694f6b68369
+75	769	1724336067136725719	CMakeFiles/PetDesktop.dir/main.cpp.o	70de0300e98b0f9
+1	3	0	PetDesktop_autogen/mocs_compilation.cpp	1f3a8694f6b68369
+75	743	1724336067108725073	CMakeFiles/PetDesktop.dir/PetDesktop_autogen/mocs_compilation.cpp.o	71a7557589570515
+835	1003	1724336067368731078	PetDesktop	56b90d4e72f1567d
+1	3	0	/home/zgh/Qt_Projects/PetDesktop/cmake-build-debug/CMakeFiles/PetDesktop_autogen	1f3a8694f6b68369
+75	835	1724336067200727197	CMakeFiles/PetDesktop.dir/widget.cpp.o	f2d8b0fce639e07b
+1	3	0	CMakeFiles/PetDesktop_autogen	1f3a8694f6b68369
+0	108	0	CMakeFiles/PetDesktop_autogen	1f3a8694f6b68369
+0	108	0	PetDesktop_autogen/mocs_compilation.cpp	1f3a8694f6b68369
+0	108	0	/home/zgh/Qt_Projects/PetDesktop/cmake-build-debug/CMakeFiles/PetDesktop_autogen	1f3a8694f6b68369
+0	108	0	/home/zgh/Qt_Projects/PetDesktop/cmake-build-debug/PetDesktop_autogen/mocs_compilation.cpp	1f3a8694f6b68369
+108	1028	1724336336402416593	CMakeFiles/PetDesktop.dir/PetDesktop_autogen/mocs_compilation.cpp.o	71a7557589570515
+108	1063	1724336336438417295	CMakeFiles/PetDesktop.dir/main.cpp.o	70de0300e98b0f9
+109	1162	1724336336534419165	CMakeFiles/PetDesktop.dir/widget.cpp.o	f2d8b0fce639e07b
+1162	1395	1724336336766423686	PetDesktop	56b90d4e72f1567d
+0	3	0	CMakeFiles/PetDesktop_autogen	1f3a8694f6b68369
+0	3	0	PetDesktop_autogen/mocs_compilation.cpp	1f3a8694f6b68369
+0	3	0	/home/zgh/Qt_Projects/PetDesktop/cmake-build-debug/CMakeFiles/PetDesktop_autogen	1f3a8694f6b68369
+0	3	0	/home/zgh/Qt_Projects/PetDesktop/cmake-build-debug/PetDesktop_autogen/mocs_compilation.cpp	1f3a8694f6b68369
